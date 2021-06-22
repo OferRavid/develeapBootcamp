@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 Hi!
 My
 Name
 Is
 Slim
 Shady
+=======
+>>>>>>> parent of 6543321... edited text
